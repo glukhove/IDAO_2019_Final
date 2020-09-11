@@ -7,6 +7,9 @@ https://idao.world/history/#idao-2019
 
 Final solution of the team Zvezdochka* (2nd place)
 
-Ernest Glukhov – Innopolis University,
-Daria Zapekina – Innopolis University,
-Vyacheslav Karpov – Innopolis University.
+* Ernest Glukhov – Innopolis University,
+* Daria Zapekina – Innopolis University,
+* Vyacheslav Karpov – Innopolis University.
+
+![Alt text](Results.png?raw=true "Results")
+
